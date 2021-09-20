@@ -2,7 +2,7 @@
 : programmers level 1 문제 풀이 모음zip 📁
 
 ### 🗓 9/16 🗓 
-> [로또의 최고 순위와 최저 순위] (https://github.com/intersoom/programmersLv1/blob/main/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.js)
+> [로또의 최고 순위와 최저 순위](https://github.com/intersoom/programmersLv1/blob/main/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.js)
 
 ### 🗓 9/17 🗓 
 > [없는 숫자 더하기](https://github.com/intersoom/programmersLv1/blob/main/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0.js) <br><br>
@@ -15,6 +15,6 @@
 > [음양 더하기](https://github.com/intersoom/programmersLv1/blob/main/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0.js) <br><br>
 > [내적](https://github.com/intersoom/programmersLv1/blob/main/%EB%82%B4%EC%A0%81.js) <br><br>
 > [소수 만들기](https://github.com/intersoom/programmersLv1/blob/main/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.js)<br><br>
-> [폰켓몬] (https://github.com/intersoom/programmersLv1/blob/main/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)
+> [폰켓몬](https://github.com/intersoom/programmersLv1/blob/main/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)
 
  
