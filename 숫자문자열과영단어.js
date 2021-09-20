@@ -6,50 +6,76 @@ function solution(s) {
     userNum = Array.from(s);
 
     for (let i = 0; i < userNum.length; i++){
-        if (typeof userNum[i] == "string"){
-            switch(userNum){
+        // if (typeof userNum[i] == "string"){
+            switch(userNum[i]){
                 case "z":
                     if (userNum[i+3] = "o"){
                         userNum.splice(i, 4);
-                        userNum.splice(i, 0, "0")
-                        userNum.length = userNum.length - 3;
+                        userNum.splice(i, 0, 0);
                     }
-                    break;
+                    continue
                 case "o":
                     if (userNum[i+2] == "e"){
                         userNum.splice(i, 3);
-                        userNum.splice(i, 0, "1")
-                        userNum.length = userNum.length - 2;
+                        userNum.splice(i, 0, 1)
+                        
                     }
-                    break;
+                    continue
                 case "t":
                     if (userNum[i+2] == "o"){
                         userNum.splice(i, 3);
-                        userNum.splice(i, 0, "2")
-                        userNum.length = userNum.length - 2;
+                        userNum.splice(i, 0, 2)
+                        
                     } else if (userNum[i+4] == "e"){
                         userNum.splice(i, 5);
-                        userNum.splice(i, 0, "3")
-                        userNum.length = userNum.length - 4;
+                        userNum.splice(i, 0, 3)
+                        
                     }
-                    break;
+                    continue
                 case "f":
                     if (userNum[i+3] == "r"){
                         userNum.splice(i, 4);
                         userNum.splice(i, 0, "4")
-                        userNum.length = userNum.length - 3;
+                        
                     } else if (userNum[i+3] == "e"){
                         userNum.splice(i, 4);
-                        userNum.splice(i, 0, "5")
-                        userNum.length = userNum.length - 3;
+                        userNum.splice(i, 0, 5)
+                        
                     }
-                    break;
+                    continue
+                case "s":
+                    if (userNum[i+2] == "x"){
+                        userNum.splice(i, 3);
+                        userNum.splice(i, 0, 6)
+                        
+                    } else if (userNum[i+4] == "n"){
+                        userNum.splice(i, 5);
+                        userNum.splice(i, 0, 7)
+                        
+                    }
+                    continue
+                case "e":
+                    if (userNum[i+4] == "t"){
+                        userNum.splice(i, 5);
+                        userNum.splice(i, 0, 8)
+                        
+                    }
+                    continue
+                case "n":
+                    if (userNum[i+3] == "e"){
+                        userNum.splice(i, 4);
+                        userNum.splice(i, 0, 9)
+                        
+                    }
+                    continue
             }
-        } else {
-            continue;
-        }
+        // } else {
+        //     continue;
+        // }
+    }
     
-
+    answer = Number(userNum.join(''));
 
     return answer;
 }
+
