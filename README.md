@@ -10,9 +10,9 @@
 
 ### 9/20 
 > [숫자 문자열과 영단어](https://github.com/intersoom/programmersLv1/blob/main/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.js) <br>
-> [블로그 정리](https://blog.naver.com/cherishmyl/222511978271)<br><br>
+> [📓블로그 정리](https://blog.naver.com/cherishmyl/222511978271)<br><br>
 > [키패드 누르기](https://github.com/intersoom/programmersLv1/blob/main/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.js)<br>
-> [블로그 정리](https://blog.naver.com/cherishmyl/222511980638)<br><br>
+> [📓블로그 정리](https://blog.naver.com/cherishmyl/222511980638)<br><br>
 > [크레인 인형 뽑기](https://github.com/intersoom/programmersLv1/blob/main/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84.js)<br><br>
 > [음양 더하기](https://github.com/intersoom/programmersLv1/blob/main/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0.js) <br><br>
 > [내적](https://github.com/intersoom/programmersLv1/blob/main/%EB%82%B4%EC%A0%81.js) <br><br>
@@ -21,5 +21,5 @@
 
 ### 9/22 
 > [숫자 문자열과 영단어](https://github.com/intersoom/programmersLv1/blob/main/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.js) <br>
-> [블로그 정리](https://blog.naver.com/cherishmyl/222513622923)<br><br>
+> [📓블로그 정리](https://blog.naver.com/cherishmyl/222513622923)<br><br>
 
