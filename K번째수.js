@@ -6,23 +6,34 @@ function solution(array, commands) {
     let nd = 0;
 
     for (let i = 0; i < commands.length; i++){
+        cutted = [];
+        
         from = commands [i][0];
         to = commands [i][1];
         nd = commands [i][2];
 
-        //인덱스 값으로 변환
-        from = from - 1;
-        to = to - from;
-        
-        //자르기
-        cutted = array.splice(from, to);
-        console.log(cutted);
-        
-        //넣기
-        answer.push(cutted[nd]);
+        if (to > 1){
+            //인덱스 값으로 변환
+            from = from - 1;
+            
+            //자르기
+            cutted = array.slice(from, to);
+            cutted = cutted.sort((a, b) => a-b);
+            
+            //넣기
+            answer.push(cutted[nd-1]);
+        }
+        else if (to == 1){
+            answer.push(array[0]);
+        }
+        else if (to == array.length){
+            cutted = array.slice(from);
+            cutted = cutted.sort((a, b) => a-b);
+            
+            //넣기
+            answer.push(cutted[nd-1]);
+        }
     }
-
-
 
     return answer;
 }
