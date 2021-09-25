@@ -22,4 +22,7 @@
 ### 9/22 
 > [숫자 문자열과 영단어](https://github.com/intersoom/programmersLv1/blob/main/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.js) <br>
 > [📓블로그 정리](https://blog.naver.com/cherishmyl/222513622923)<br><br>
-
+<br>
+### 9/20 
+> [오픈 채팅방](https://github.com/intersoom/programmersLv1/blob/main/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.js) <br>
+> [📓블로그 정리](https://blog.naver.com/cherishmyl/222515875033)<br><br>
