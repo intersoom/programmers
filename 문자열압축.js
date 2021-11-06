@@ -15,7 +15,7 @@ function solution(s) {
                     patternCount = 1;
                     break;
                 } else{
-                    continue;
+                    continue; 
                 }        
             } else {
                 if (patternStart > 0){
