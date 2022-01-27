@@ -2,6 +2,7 @@ function solution(n) {
     let answer = 0;
     const arr = [...Array(n).keys()].map(key => key + 1); 
 
+    //에라토스테네스의 체 사용!!
     for (let i = 0; i < n - 1; i++){
         if (arr[i] === 0){
             continue;
